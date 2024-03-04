@@ -1,11 +1,8 @@
 ---
-title: "quarto5"
+title: "Quarto Website"
 ---
 
-This is a Quarto website.
+This is the Quarto website made by Mukil Rangaraman.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
