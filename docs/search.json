@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto5",
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "labs",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "These are my Labs"
   },
   {
     "objectID": "about.html",
@@ -21,17 +21,17 @@
     "text": "These are my Projects"
   },
   {
-    "objectID": "labs.html",
-    "href": "labs.html",
-    "title": "labs",
-    "section": "",
-    "text": "These are my Labs"
-  },
-  {
     "objectID": "presentations.html",
     "href": "presentations.html",
     "title": "presentations",
     "section": "",
     "text": "These are my Presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto5",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
